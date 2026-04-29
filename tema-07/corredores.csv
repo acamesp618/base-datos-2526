@@ -1,0 +1,9 @@
+-- Corredores.csv
+-- generar un archivo con los datos de los Corredores
+-- tabla: Corredores
+-- columnas: Nombre,Apellidos,Ciudad,FechaNacimiento,Sexo,Club_id
+Luis,Moreno Diaz,Sevilla,1995-03-12,H,1
+Carmen,Lopez Ruiz,Cadiz,2002-07-25,M,2
+Alberto,Sanchez Vega,Jerez,1988-11-03,H,3
+Maria,Gomez Perez,Malaga,2005-01-18,M,4
+Javier,Ruiz Torres,Cordoba,1975-09-30,H,5
