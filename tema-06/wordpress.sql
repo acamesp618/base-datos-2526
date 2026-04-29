@@ -1,0 +1,2 @@
+DROP DATABASE wordpress;
+CREATE DATABASE wordpress;
