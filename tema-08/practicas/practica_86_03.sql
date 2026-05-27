@@ -18,7 +18,7 @@ BEGIN
 
     SELECT *
     FROM movimientos
-    INTO OUTFILE '/tmp/moviweek.csv'
+    INTO OUTFILE 'c:moviweek.csv'
     FIELDS TERMINATED BY ';'
     ENCLOSED BY '"'
     LINES TERMINATED BY '\n'
@@ -67,7 +67,7 @@ BEGIN
 
     WHERE c.saldo < 0
 
-    INTO OUTFILE '/tmp/clientesenrojo.csv'
+    INTO OUTFILE 'c:clientesenrojo.csv'
 
     FIELDS TERMINATED BY ';'
     ENCLOSED BY '"'
